@@ -47,7 +47,7 @@ This tool allows users to securely encrypt and decrypt files using strong crypto
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 
 | Library | Purpose |
 |--------|---------|
