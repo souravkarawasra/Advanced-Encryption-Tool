@@ -1,5 +1,14 @@
 # ADVANCED ENCRYPTION TOOL
 
+COMPANY: CODETECH IT SOLUTIONS
+
+NAME: SOURAV
+
+INTERN ID: CT04DG3230
+
+DOMIAN: Cyber Security & Ethical Hacking
+
+DURATION: 4 Weeks
 
 A simple yet powerful Python-based **AES-256 file encryption and decryption tool** with a clean GUI interface and **drag-and-drop support**.
 
@@ -53,11 +62,11 @@ This tool allows users to securely encrypt and decrypt files using strong crypto
 ## Output
 
 <img width="400" height="311" alt="Screenshot 2025-07-15 084210" src="https://github.com/user-attachments/assets/e3616312-4af9-4019-a448-7acabfb42e74" />
-
+---
 <img width="178" height="112" alt="Screenshot 2025-07-15 084224" src="https://github.com/user-attachments/assets/0b7ae66a-bac7-4b58-be61-33258066ddbb" />
-
+---
 <img width="180" height="115" alt="Screenshot 2025-07-15 084300" src="https://github.com/user-attachments/assets/26f7f49c-6942-4fcc-8cd4-ebfeb1d7a7de" />
-
+---
 <img width="400" height="154" alt="Screenshot 2025-07-15 084333" src="https://github.com/user-attachments/assets/ceabc6b5-cb67-4763-b939-ec6a37d4fd2f" />
 
 
