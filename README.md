@@ -59,7 +59,7 @@ This tool allows users to securely encrypt and decrypt files using strong crypto
 
 ---
 
-## Output
+## Sample Output
 
 <img width="400" height="311" alt="Screenshot 2025-07-15 084210" src="https://github.com/user-attachments/assets/e3616312-4af9-4019-a448-7acabfb42e74" />
 
